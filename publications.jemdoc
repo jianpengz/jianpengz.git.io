@@ -2,6 +2,13 @@
 ==Jianpeng Zhang 
 
 
+=== 2021
+
+-  [https://ieeexplore.ieee.org/document/9201384 SESV: Accurate Medical Image Segmentation by Predicting and Correcting Errors] \n
+   Yutong Xie\*, *Jianpeng Zhang*\*, Hao Lu, Chunhua Shen, and Yong Xia (\* Equal contribution) \n
+   /IEEE Transactions on Medical Imaging (TMI)/, vol. 40, no. 1, pp. 286-296, Jan 2021.
+
+
 
 === 2020 
 
@@ -17,17 +24,13 @@
 
 -  [https://ieeexplore.ieee.org/document/9272749 Viral Pneumonia Screening on Chest X-rays Using Confidence-Aware Anomaly Detection] \n
    *Jianpeng Zhang*\*, Yutong Xie\*, Guansong Pang, Zhibin Liao, Johan Verjans, Wenxing Li, Zongji Sun, Jian He, Yi Li, Chunhua Shen, Yong Xia (\* Equal contribution) \n
-   /IEEE Transactions on Medical Imaging (TMI)/, early assess, 2020. \n
+   /IEEE Transactions on Medical Imaging (TMI)/, early access, 2020. \n
    [https://arxiv.org/pdf/2003.12338.pdf \[arXiv\]]
 
 -  [https://ieeexplore.ieee.org/document/9245569 Inter-slice Context Residual Learning for 3D Medical Image Segmentation] \n
    *Jianpeng Zhang*, Yutong Xie, Yan Wang, and Yong Xia \n
-   /IEEE Transactions on Medical Imaging (TMI)/, early assess, 2020. \n
+   /IEEE Transactions on Medical Imaging (TMI)/, early access, 2020. \n
    [https://arxiv.org/pdf/2011.14155.pdf  \[arXiv\]] [https://github.com/jianpengz/ConResNet \[Code\]]
-
--  [https://ieeexplore.ieee.org/document/9201384 SESV: Accurate Medical Image Segmentation by Predicting and Correcting Errors] \n
-   Yutong Xie\*, *Jianpeng Zhang*\*, Hao Lu, Chunhua Shen, and Yong Xia (\* Equal contribution) \n
-   /IEEE Transactions on Medical Imaging (TMI)/, early assess, 2020.  
 
 -  [https://ieeexplore.ieee.org/document/8990108 A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification] \n
    Yutong Xie\*, *Jianpeng Zhang*\*, Yong Xia and Chunhua Shen (\* Equal contribution) \n
