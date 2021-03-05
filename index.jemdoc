@@ -23,8 +23,8 @@ especially annotation-limited 3D medical image segmentation.
 
 
 === News
-- \[Mar 2020\]   [https://github.com/jianpengz/DoDNet Code and pre-trained model] of [https://arxiv.org/pdf/2011.10217.pdf DoDNet] are available!
-- \[Mar 2020\]   Our paper on [https://arxiv.org/pdf/2011.10217.pdf partially labeled multi-organ and tumors segmentation] has been accepted by CVPR 2021!
+- \[Mar 2021\]   [https://github.com/jianpengz/DoDNet Code and pre-trained model] of [https://arxiv.org/pdf/2011.10217.pdf DoDNet] are available!
+- \[Mar 2021\]   Our paper on [https://arxiv.org/pdf/2011.10217.pdf partially labeled multi-organ and tumors segmentation] has been accepted by CVPR 2021!
 - \[Dec 2020\]   Code of [https://github.com/jianpengz/ConResNet ConResNet] is available!
 - \[Nov 2020\]   Our paper on [https://arxiv.org/pdf/2003.12338.pdf viral pneumonia screening  on chest X-rays] has been accepted by IEEE-TMI!
 - \[Oct 2020\]   Our [https://ieeexplore.ieee.org/document/9245569 ConResNet] for 3D medical image segmentation has been accepted by IEEE-TMI!
