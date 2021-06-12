@@ -4,11 +4,6 @@
 
 === Pre-print
 
--  [https://arxiv.org/pdf/2103.03024.pdf CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation] \n
-   Yutong Xie\*, *Jianpeng Zhang*\*, Chunhua Shen, and Yong Xia (\* Equal contribution) \n
-   /arXiv:2103.03024/. \n
-   [https://arxiv.org/pdf/2103.03024.pdf  \[arXiv\]] [https://github.com/YtongXie/CoTr \[Code\]]
-
 -  [https://arxiv.org/pdf/2011.12640.pdf PGL: Prior-Guided Local Self-supervised Learning for 3D Medical Image Segmentation] \n
    Yutong Xie\*, *Jianpeng Zhang*\*, Zehui Liao, Yong Xia, and Chunhua Shen (\* Equal contribution) \n
    /arXiv:2011.12640/. \n
@@ -22,6 +17,10 @@
    /Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021)/. \n
    [https://arxiv.org/pdf/2011.10217.pdf  \[arXiv\]] [https://github.com/jianpengz/DoDNet \[Code\]]
 
+-  [https://arxiv.org/pdf/2103.03024.pdf CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation] \n
+   Yutong Xie\*, *Jianpeng Zhang*\*, Chunhua Shen, and Yong Xia (\* Equal contribution) \n
+   /International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2021)/. \n
+   [https://arxiv.org/pdf/2103.03024.pdf  \[arXiv\]] [https://github.com/YtongXie/CoTr \[Code\]]
 
 === 2020 
 
