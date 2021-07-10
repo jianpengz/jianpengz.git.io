@@ -12,13 +12,13 @@
 
 === 2021
 
--  [https://arxiv.org/pdf/2011.10217.pdf DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets] \n
+-  [https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DoDNet_Learning_To_Segment_Multi-Organ_and_Tumors_From_Multiple_Partially_CVPR_2021_paper.pdf DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets] \n
    *Jianpeng Zhang*\*, Yutong Xie\*, Yong Xia, and Chunhua Shen (\* Equal contribution) \n
    /Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021)/. \n
    [https://arxiv.org/pdf/2011.10217.pdf  \[arXiv\]] [https://github.com/jianpengz/DoDNet \[Code\]]
 
 -  [https://arxiv.org/pdf/2103.03024.pdf CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation] \n
-   Yutong Xie\*, *Jianpeng Zhang*\*, Chunhua Shen, and Yong Xia (\* Equal contribution) \n
+   Yutong Xie, *Jianpeng Zhang*, Chunhua Shen, and Yong Xia \n
    /International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2021)/. \n
    [https://arxiv.org/pdf/2103.03024.pdf  \[arXiv\]] [https://github.com/YtongXie/CoTr \[Code\]]
 
@@ -27,12 +27,12 @@
 
 -  [https://ieeexplore.ieee.org/document/9272749 Viral Pneumonia Screening on Chest X-rays Using Confidence-Aware Anomaly Detection] \n
    *Jianpeng Zhang*\*, Yutong Xie\*, Guansong Pang, Zhibin Liao, Johan Verjans, Wenxing Li, Zongji Sun, Jian He, Yi Li, Chunhua Shen, Yong Xia (\* Equal contribution) \n
-   /IEEE Transactions on Medical Imaging (TMI)/, early access, 2020. \n
+   /IEEE Transactions on Medical Imaging (TMI)/, vol. 40, no. 3, pp. 879-890. \n
    [https://arxiv.org/pdf/2003.12338.pdf \[arXiv\]]
 
 -  [https://ieeexplore.ieee.org/document/9245569 Inter-slice Context Residual Learning for 3D Medical Image Segmentation] \n
    *Jianpeng Zhang*, Yutong Xie, Yan Wang, and Yong Xia \n
-   /IEEE Transactions on Medical Imaging (TMI)/, early access, 2020. \n
+   /IEEE Transactions on Medical Imaging (TMI)/, vol. 40, no. 2, pp. 661-672. \n
    [https://arxiv.org/pdf/2011.14155.pdf  \[arXiv\]] [https://github.com/jianpengz/ConResNet \[Code\]]
 
 -  [https://ieeexplore.ieee.org/document/9201384 SESV: Accurate Medical Image Segmentation by Predicting and Correcting Errors] \n
@@ -48,6 +48,11 @@
    Yutong Xie\, *Jianpeng Zhang*\, Zhibin Liao, Chunhua Shen, Johan Verjans and Yong Xia \n
    /International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2020)/. \n
    [https://arxiv.org/pdf/2008.02699.pdf \[arXiv\]]
+
+-  [https://link.springer.com/chapter/10.1007/978-3-030-65651-5_2 EfficientSeg: A Simple But Efficient Solution to Myocardial Pathology Segmentation Challenge] \n
+   *Jianpeng Zhang*, Yutong Xie, Zhibin Liao, Johan Verjans and Yong Xia \n
+   /Myocardial Pathology Segmentation Combining Multi-Sequence Cardiac Magnetic Resonance Images (MyoPS 2020)/. \n
+   [https://github.com/jianpengz/EfficientSeg \[Code\]]
 
 
 
