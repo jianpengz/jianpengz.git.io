@@ -25,6 +25,7 @@ especially annotation-limited 3D medical image segmentation.
 
 
 === News
+- \[Sep 2021\]   Our team achieved the [https://kits21.grand-challenge.org/evaluation/challenge/leaderboard/ 4-th place on KiTS'21 challenge]! Congrats to Xi!
 - \[Jul 2021\]   Code of [https://github.com/jianpengz/EfficientSeg EfficientSeg] is available!
 - \[Jun 2021\]   [https://arxiv.org/pdf/2103.03024.pdf CoTr] is accepted by MICCAI 2021!
 - \[Mar 2021\]   [https://github.com/YtongXie/CoTr Code] of [https://arxiv.org/pdf/2103.03024.pdf CoTr] is available!
