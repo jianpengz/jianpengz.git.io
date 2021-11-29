@@ -4,18 +4,19 @@
 ~~~
 {}{img_left}{pic/cv_photo.png}{alt text}{160}{160}{https://jianpengz.github.io/}
 PhD candidate @ School of Computer Science and Engineering, Northwestern Polytechnical University (NPU)\n
-Visiting student @ Australian Institute for Machine Learning (AIML), The University of Adelaide \n 
+Research assistant @ Australian Institute for Machine Learning (AIML), The University of Adelaide \n 
 Room 432, CS Building, NPU Chang’an Campus, Xi’an 710129, China \n 
-Room LG.27, AIML Building, University of Adelaide, SA 5005, Australia \n
+Room L1.27, AIML Building, University of Adelaide, SA 5005, Australia \n
 
-E-mail: [james.zhang@mail.nwpu.edu.cn] \n
+E-mail: james\[dot\]zhang\[at\]mail\[dot\]nwpu\[dot\]edu\[dot\]cn \n
+james\[dot\]zhang\[at\]adelaide\[dot\]edu\[dot\]au \n
 [https://scholar.google.nl/citations?user=s_MYAskAAAAJ&hl=zh-CN \[Google Scholar\]] [https://github.com/jianpengz \[Github\]]
 ~~~
 
 == Biography
-I am currently a 3rd-year PhD Student at the School of Computer Science and Engineering, Northwestern Polytechnical University (NPU), China, 
+I am currently a final-year PhD Student at the School of Computer Science and Engineering, Northwestern Polytechnical University (NPU), China, 
 under the supervision of Prof. [https://teacher.nwpu.edu.cn/en/yongxia.html Yong Xia]. 
-I am also a visiting student at the School of Computer Science, University of Adelaide (UoA), Australia, under the supervision of Prof. [https://cshen.github.io/ Chunhua Shen]. 
+I am also a research assistant at the Australia Institute for Machine Learning (AIML), University of Adelaide (UoA), Australia, jointly work with Dr. [https://researchers.adelaide.edu.au/profile/johan.verjans\#my-research Johan Verjans]. Before that, I was a visitor at UoA under the supervision of Prof. [https://cshen.github.io/ Chunhua Shen]. 
 
 My research interests mainly focus on deep learning technologies for medical image analysis, 
 especially annotation-limited 3D medical image segmentation. 
@@ -25,6 +26,7 @@ especially annotation-limited 3D medical image segmentation.
 
 
 === News
+- \[Nov 2021\]   One paper on semi-supervised learning is accepted by IEEE-TIP!
 - \[Sep 2021\]   Our team achieved the [https://kits21.grand-challenge.org/evaluation/challenge/leaderboard/ 4-th place on KiTS'21 challenge]! Congrats to Xi!
 - \[Jul 2021\]   Code of [https://github.com/jianpengz/EfficientSeg EfficientSeg] is available!
 - \[Jun 2021\]   [https://arxiv.org/pdf/2103.03024.pdf CoTr] is accepted by MICCAI 2021!
