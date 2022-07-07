@@ -2,6 +2,19 @@
 ==Jianpeng Zhang 
 
 
+=== 2022
+-  UniMiSS: Universal Medical Self-Supervised Learning via Breaking Dimensionality Barrier \n
+Yutong Xie, *Jianpeng Zhang*, Yong Xia, and Qi Wu \n
+/Proceedings of the European Conference on Computer Vision (ECCV 2022)/. 
+
+-  Uncertainty-aware Multi-modal Learning via Cross-modal Random Network Prediction \n
+Hu Wang, *Jianpeng Zhang*, Yuanhong Chen, Congbo Ma, Jodie Avery, Mary Hull, and Gustavo Carneiro \n
+/Proceedings of the European Conference on Computer Vision (ECCV 2022)/. 
+
+-  DeSD: Self-Supervised Learning with Deep Self-Distillation for 3D Medical Image Segmentation \n
+Yiwen Ye\*, *Jianpeng Zhang*\*, Ziyang Chen, and Yong Xia (\* Equal contribution)
+/International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2022)/. 
+
 === 2021
 
 -  [https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DoDNet_Learning_To_Segment_Multi-Organ_and_Tumors_From_Multiple_Partially_CVPR_2021_paper.pdf DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets] \n

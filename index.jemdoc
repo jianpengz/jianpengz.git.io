@@ -1,31 +1,27 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Jianpeng Zhang 
+==Dr. Jianpeng Zhang 
 
 ~~~
 {}{img_left}{pic/cv_photo.png}{alt text}{160}{160}{https://jianpengz.github.io/}
-PhD candidate @ School of Computer Science and Engineering, Northwestern Polytechnical University (NPU)\n
-Research assistant @ Australian Institute for Machine Learning (AIML), The University of Adelaide \n 
-Room 432, CS Building, NPU Chang’an Campus, Xi’an 710129, China \n 
-Room L1.27, AIML Building, University of Adelaide, SA 5005, Australia \n
+Senior algorithm engineer @ Alibaba DAMO Academy \n
 
-E-mail: james\[dot\]zhang\[at\]mail\[dot\]nwpu\[dot\]edu\[dot\]cn \n
-james\[dot\]zhang\[at\]adelaide\[dot\]edu\[dot\]au \n
+E-mail: jianpeng\[dot\]zhang0\[at\]gmail\[dot\]com \n
 [https://scholar.google.com/citations?user=KBIydr4AAAAJ&hl=en \[Google Scholar\]] [https://github.com/jianpengz \[Github\]]
 ~~~
 
 == Biography
-I am currently a final-year PhD Student at the School of Computer Science and Engineering, Northwestern Polytechnical University (NPU), China, 
+I received my PhD degree from Northwestern Polytechnical University (NPU), China, in 2022, 
 under the supervision of Prof. [https://teacher.nwpu.edu.cn/en/yongxia.html Yong Xia]. 
-I am also a research assistant at the Australia Institute for Machine Learning (AIML), University of Adelaide (UoA), Australia, jointly work with Dr. [https://researchers.adelaide.edu.au/profile/johan.verjans\#my-research Johan Verjans]. Before that, I was a visitor at UoA under the supervision of Prof. [https://cshen.github.io/ Chunhua Shen]. 
+I was also a research fellow at the Australia Institute for Machine Learning (AIML), University of Adelaide (UoA), Australia, jointly work with Dr. [https://researchers.adelaide.edu.au/profile/johan.verjans\#my-research Johan Verjans]. Before that, I was a visitor at UoA under the supervision of Prof. [https://cshen.github.io/ Chunhua Shen]. 
 
 My research interests mainly focus on deep learning technologies for medical image analysis, 
 especially annotation-limited 3D medical image segmentation. 
 
 
-# ==== I am looking for a post-doc position or a medical-AI related job!
-
 
 === News
+- \[Jul 2022\]   Two papers on medical pre-training and uncertainty learning are accepted by ECCV 2022!
+- \[Jun 2022\]   One paper on self-supervised learning is accepted by MICCAI 2022!
 - \[Nov 2021\]   One paper on semi-supervised learning is accepted by IEEE-TIP!
 - \[Sep 2021\]   Our team achieved the [https://kits21.grand-challenge.org/evaluation/challenge/leaderboard/ 4-th place on KiTS'21 challenge]! Congrats to Xi!
 - \[Jul 2021\]   Code of [https://github.com/jianpengz/EfficientSeg EfficientSeg] is available!
