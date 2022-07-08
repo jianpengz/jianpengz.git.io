@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Dr. Jianpeng Zhang 
+==Welcome to my homepage!
 
 ~~~
 {}{img_left}{pic/cv_photo.png}{alt text}{160}{160}{https://jianpengz.github.io/}
@@ -20,7 +20,7 @@ especially annotation-limited 3D medical image segmentation.
 
 
 === News
-- \[Jul 2022\]   Two papers on medical pre-training and uncertainty learning are accepted by ECCV 2022!
+- \[Jul 2022\]   Two papers on medical pre-training and multi-modal learning are accepted by ECCV 2022!
 - \[Jun 2022\]   One paper on self-supervised learning is accepted by MICCAI 2022!
 - \[Nov 2021\]   One paper on semi-supervised learning is accepted by IEEE-TIP!
 - \[Sep 2021\]   Our team achieved the [https://kits21.grand-challenge.org/evaluation/challenge/leaderboard/ 4-th place on KiTS'21 challenge]! Congrats to Xi!
