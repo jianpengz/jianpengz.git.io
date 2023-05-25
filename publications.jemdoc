@@ -1,6 +1,20 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
 ==Welcome to my homepage!
 
+=== 2023
+
+- Parse and Recall: Towards Accurate Lung Nodule Malignancy Prediction like Radiologists \n
+*Jianpeng Zhang*, Xianghua Ye, Jianfeng Zhang, Yuxing Tang, Minfeng Xu, Jianfei Guo, Xin Chen, Zaiyi Liu, Jingren Zhou, Le Lu, Ling Zhang
+/International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023, early accept)/. 
+
+- UniSeg: A Prompt-driven Universal Segmentation Model as well as A Strong Representation Learner \n
+Yiwen Ye\*, Yutong Xie\*, *Jianpeng Zhang*, Ziyang Chen, Yong Xia \n
+/International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023, early accept)/. 
+
+- TPRO: Text-prompting-based Weakly Supervised Histopathology Tissue Segmentation \n
+Shaoteng Zhang\*, Yutong Xie\*, *Jianpeng Zhang*, Yong Xia \n
+/International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023, early accept)/. 
+
 
 === 2022
 -  UniMiSS: Universal Medical Self-Supervised Learning via Breaking Dimensionality Barrier \n
