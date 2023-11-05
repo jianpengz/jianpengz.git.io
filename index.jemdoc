@@ -14,14 +14,15 @@ I received my PhD degree from Northwestern Polytechnical University (NPU), China
 under the supervision of Prof. [https://teacher.nwpu.edu.cn/en/yongxia.html Yong Xia]. 
 I was also a research fellow at the Australia Institute for Machine Learning (AIML), University of Adelaide (UoA), Australia, jointly work with Dr. [https://researchers.adelaide.edu.au/profile/johan.verjans\#my-research Johan Verjans]. Before that, I was a visitor at UoA under the supervision of Prof. [https://cshen.github.io/ Chunhua Shen]. 
 
-My research interests mainly focus on deep learning technologies for medical image analysis, 
-especially annotation-limited 3D medical image segmentation. 
+My research interests span a broad spectrum in the medical AI domain, including but not limited to self-supervised learning, partial label learning, and vision-language pre-training. The core objective of my work is to harness the potential of AI technology in clinical environments, thereby enhancing its value through direct applications that benefit healthcare professionals and patients alike.
 
+==== We are recruiting interns with a passion and research background in medical image analysis or computer vision. If you are interested, please send me your resume.
 
 
 === News
-- \[Aug 2023\]   TransDoDNet has been accepted by TPAMI!
-- \[Jun 2023\]   One paper on 8 cancer screening has been accepted by ICCV 2023!
+- \[Nov 2023\]   One paper on hybrid pre-training has been accepted by Medical Image Analysis!
+- \[Aug 2023\]   One paper on partially label learning has been accepted by TPAMI!
+- \[Jun 2023\]   One paper on 8-cancer screening has been accepted by ICCV 2023!
 - \[Jun 2023\]   Six papers are accepted by MICCAI 2023!
 - \[May 2023\]   Our survey paper on [https://arxiv.org/pdf/2305.17937.pdf attention mechanisms in medical image segmentation] is now available online!
 - \[May 2023\]   Three papers are early accepted by MICCAI 2023!
