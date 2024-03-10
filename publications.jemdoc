@@ -1,6 +1,21 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
 ==Welcome to my homepage!
 
+=== ⱡ: corresponding author; *: co-first author
+
+=== 2024
+- Bootstrapping Language-Driven Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models \n
+Weiwei Cao, *Jianpeng Zhang*ⱡ, Yingda Xia, Tony C. W. Mok, Zi Li, Xianghua Ye, Le Lu, Jian Zhengⱡ, Yuxing Tang, Ling Zhang \n
+*CVPR 2024*
+
+- Continual Self-supervised Learning : Towards Universal Multi-modal Medical Data Representation Learning \n 
+Yiwen Ye, Yutong Xie, *Jianpeng Zhang*, Ziyang Chen, Qi Wu, Yong Xia \n
+*CVPR 2024*
+
+- Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration \n
+Tony C. W. MOK, Zi Li, Yunhao Bai, *Jianpeng Zhang*, Wei Liu, Yan-Jie Zhou, Ke Yan, Dakai Jin, Yu Shi, Xiaoli Yin, Le Lu, Ling Zhang \n 
+*CVPR 2024*
+
 === 2023
 
 - Parse and Recall: Towards Accurate Lung Nodule Malignancy Prediction like Radiologists \n
